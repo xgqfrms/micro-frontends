@@ -1,2 +1,2 @@
-# micro-frontends demo
+# demo
 
